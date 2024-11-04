@@ -1,3 +1,3 @@
 # Computer Science Student
 
-> The master has failed more times than the student has tried.
+> The master has failed more times than the beginner has even tried.
